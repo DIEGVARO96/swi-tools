@@ -27,3 +27,4 @@ setup( name='switools',
        url='https://github.com/aristanetworks/swi-tools',
        zip_safe=False,
        include_package_data=True )
+
